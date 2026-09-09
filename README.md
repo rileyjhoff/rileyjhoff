@@ -1,15 +1,26 @@
-# Hi, I'm Riley 👋
+# Riley Hoffman
+ 
+Fullstack engineer in Portland, OR. Frontend-weighted — React, Next.js, TypeScript — with production ownership reaching into NestJS, GraphQL, and AWS.
+ 
+Spent three and a half years at ReUp Education as one of the first engineers, taking a student-facing marketplace from concept to production and through two promotions. Before software: trading and investment advising, and a degree in mathematical economics.
+ 
+Currently building an AI system that turns natural-language requirements into structured software blueprints that coding agents can consume.
+ 
+Pronouns: he/him
+[rileyjhoff@gmail.com](mailto:rileyjhoff@gmail.com) · [LinkedIn](https://www.linkedin.com/in/riley-j-hoffman/)
+ 
+## Stack
+ 
+**Languages** — TypeScript, JavaScript, HTML, CSS
+ 
+**Frontend** — React, Next.js, Tailwind, Material UI, Zustand, React Context, i18next
+ 
+**Backend** — Node.js, NestJS, Express, GraphQL, TypeORM
+ 
+**Data** — PostgreSQL, OpenSearch, Supabase
+ 
+**Infra** — AWS (Lambda, SQS, CloudWatch), Serverless Framework, Docker, Grafana
+ 
+**Testing** — Jest, React Testing Library, Cypress, MSW, TDD
 
-- Pronouns: He/Him
-- Full Stack Software Developer with a background in Math and Finance
-- Problem solver with an eagerness to learn new technologies. Provides consistent results and works well under pressure. Maintains a positive energy. Team player who is motivated by working towards a shared goal.
-- You can reach me at rileyjhoff@gmail.com or https://www.linkedin.com/in/riley-j-hoffman/
 
-## Tech Stack
-
-- Languages: JavaScript, HTML, CSS
-- Frameworks/Libraries: React, Express, Node.js, React-Bootstrap, Material UI, TailwindCSS
-- Databases: PostgreSQL, Supabase
-- Tools: Heroku, Netlify, Git, GitHub, VSCode, Miro, Slack, Figma, JIRA
-- Testing: QUnit, Jest, React Testing Library
-- Dev Practices: TDD, Agile Workflow, Remote Development, Pair/Mob Programming
