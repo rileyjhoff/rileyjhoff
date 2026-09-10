@@ -1,6 +1,6 @@
 # Riley Hoffman
  
-Fullstack engineer in Portland, OR. Frontend-weighted — React, Next.js, TypeScript — with production ownership reaching into NestJS, GraphQL, and AWS.
+Full stack engineer in Portland, OR. Frontend-weighted — React, Next.js, TypeScript — with production ownership reaching into NestJS, GraphQL, and AWS.
  
 Spent three and a half years at ReUp Education as one of the first engineers, taking a student-facing marketplace from concept to production and through two promotions. Before software: trading and investment advising, and a degree in mathematical economics.
  
